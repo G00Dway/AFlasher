@@ -71,6 +71,7 @@ def main():
             time.sleep(0.5)
             main()
         else:
+            os.system('clear')
             banner()
             time.sleep(0.5)
             main()
