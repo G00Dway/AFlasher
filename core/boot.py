@@ -25,6 +25,6 @@ except:
     exit()
 print(Fore.YELLOW+'[+]'+Fore.WHITE+' BootLoader Unlocked Succesfully!')
 print(Fore.BLUE+'[*]'+Fore.WHITE+' Rebooting Device...')
-os.system('adb reboot > /dev/null 2>&1')
+os.system('fastboot reboot > /dev/null 2>&1')
 print(Fore.YELLOW+'[+]'+Fore.WHITE+' Device BootLoader Unlocking Completed!')
 exit()
