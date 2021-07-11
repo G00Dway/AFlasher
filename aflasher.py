@@ -37,7 +37,7 @@ def main():
 3) '''+Fore.WHITE+'''Check For Updates'''+Fore.BLUE+'''
 4) '''+Fore.WHITE+'''Exit'''+Fore.RED+'''
 
-=== Android-Flasher$ '''+Fore.WHITE)
+=== Android-Flasher$ '''+Fore.WHITE).strip(" ")
     except KeyboardInterrupt:
         print('')
         print(Fore.RED+'[-]'+Fore.WHITE+' Exiting...')
