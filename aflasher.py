@@ -26,7 +26,7 @@ Made By -{ G00Dway }
 Github -{ https://github.com/G00Dway }
 
 Android Flasher V.0.6
---------------------''')
+---------------------''')
 banner()
 time.sleep(0.4)
 def main():
