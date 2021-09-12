@@ -9,7 +9,7 @@ AFlasher Is An Android Flasher! This Program Can Help You Flash Your Files To Yo
 - Parrot OS
 - Windows
 - - - - - - - - - - - - - - - - - - - - - 
-`git clone https://G00Dway/AFlasher`
+`git clone https://github.com/G00Dway/AFlasher`
 
 `sudo bash install.sh`
 
