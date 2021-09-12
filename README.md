@@ -4,10 +4,10 @@ AFlasher Is An Android Flasher! This Program Can Help You Flash Your Files To Yo
 * Flash
 * Unlock BootLoader
 # Installation:
---- Supported Systems:
-Kali Linux
-Parrot OS
-Windows
+### Supported Systems:
+- Kali Linux
+- Parrot OS
+- Windows
 - - - - - - - - - - - - - - - - - - - - - 
 `git clone https://G00Dway/AFlasher`
 
