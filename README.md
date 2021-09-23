@@ -7,7 +7,6 @@ AFlasher Is An Android Flasher! This Program Can Help You Flash Your Files To Yo
 ### Supported Systems:
 - Kali Linux
 - Parrot OS
-- Windows
 - - - - - - - - - - - - - - - - - - - - - 
 `git clone https://github.com/G00Dway/AFlasher`
 
