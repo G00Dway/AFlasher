@@ -8,8 +8,6 @@ from colorama import Fore, Back, Style
 colorama.init()
 if platform == 'win32' or platform =='win64':
     os.system('cls')
-elif platform == 'darwin':
-    os.system('clear')
 else:
     os.system('clear')
 time.sleep(2)
