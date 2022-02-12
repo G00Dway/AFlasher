@@ -69,11 +69,6 @@ def main():
             banner()
             time.sleep(0.5)
             main()
-        elif platform == 'darwin':
-            os.system('clear')
-            banner()
-            time.sleep(0.5)
-            main()
         else:
             os.system('clear')
             banner()
