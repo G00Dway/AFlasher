@@ -16,14 +16,14 @@ def banner():
   ___  ______ _           _               
  / _ \ |  ___| |         | |              
 / /_\ \| |_  | | __ _ ___| |__   ___ _ __ 
-|  _  ||  _| | |/ _` / __| '_ \ / _ \ '__| ======
-| | | || |   | | (_| \__ \ | | |  __/ |   ======
-\_| |_/\_|   |_|\__,_|___/_| |_|\___|_|   =====
+|  _  ||  _| | |/ _` / __| '_ \ / _ \ '__|
+| | | || |   | | (_| \__ \ | | |  __/ |   
+\_| |_/\_|   |_|\__,_|___/_| |_|\___|_|   
                               
-Made By  :{ G00Dway }
-Github   :{ https://github.com/G00Dway }
+Made By  : G00Dway
+Github   : https://github.com/G00Dway 
 
-Android Flasher '''+Fore.YELLOW+'''V.0.8'''+Fore.RESET+'''
+Android Flasher '''+Fore.YELLOW+'''V.0.9'''+Fore.RESET+'''
 =====================''')
 banner()
 time.sleep(0.4)
@@ -44,13 +44,13 @@ def main():
         try:
             os.system('python3 core/flash.py')
         except:
-            print(Fore.RED+'[-]'+Fore.RESET+' Error Has Been Ocurred! Cannot Run The File...')
+            print(Fore.RED+'[-]'+Fore.RESET+' Error, Cannot Run The File...')
             exit()
     elif root == '2':
         try:
             os.system('python3 core/boot.py')
         except:
-            print(Fore.RED+'[-]'+Fore.RESET+' Error Has Been Ocurred! Cannot Run The File...')
+            print(Fore.RED+'[-]'+Fore.RESET+' Error, Cannot Run The File...')
             exit()
     elif root == '3':
         os.system('bash core/update_check.sh')
