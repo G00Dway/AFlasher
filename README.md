@@ -1,6 +1,7 @@
 # AFlasher
 AFlasher Is a Advanced Android Flasher, That Flashes Your Files Remotely From Your Computer (USB, ADB)
 # Functions:
+- Make Sure To Connect Your Android Smartphone First Before You Continue!
 * Flash
 * Unlock BootLoader
 # Installation: 
