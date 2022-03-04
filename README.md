@@ -1,17 +1,13 @@
 # AFlasher
-AFlasher Is An Android Flasher! This Program Can Help You Flash Your Files To Your Android Phone!
+AFlasher Is a Advanced Android Flasher, That Flashes Your Files Remotely From Your Computer (USB, ADB)
 # Functions:
 * Flash
 * Unlock BootLoader
-# Installation:
-### Supported Systems:
-- Kali Linux
-- Parrot OS
-- - - - - - - - - - - - - - - - - - - - - 
+# Installation: 
 `git clone https://github.com/G00Dway/AFlasher`
-
-`sudo bash install.sh`
-
-`sudo python3 aflasher.py`
-# License:
-* This Program Is Under GNU 3.0 License!
+>
+`bash install.sh`
+>
+`python3 aflasher.py`
+# Bugs, Errors:
+- If you saw any bugs or errors report it here: <a href="https://github.com/G00Dway/AFlasher/issues">Issues Page</a>
